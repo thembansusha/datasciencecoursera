@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-A repro that serves as a test for the Courseera data science course.
+A repro that serves as a test for the Coursera data science course.
